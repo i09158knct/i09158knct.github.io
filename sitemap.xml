@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://i09158knct.github.io/blog/2014/03/07/the-first-post/</loc>
+        <lastmod>2014-03-07T19:03:53+09:00</lastmod>
+    </url>
+    <url>
         <loc>http://i09158knct.github.io/blog/archives/</loc>
-        <lastmod>2014-03-07T17:40:23+09:00</lastmod>
+        <lastmod>2014-03-07T19:03:53+09:00</lastmod>
     </url>
     <url>
         <loc>http://i09158knct.github.io/</loc>
-        <lastmod>2014-03-07T17:40:23+09:00</lastmod>
+        <lastmod>2014-03-07T19:03:53+09:00</lastmod>
     </url>
     <url>
         <loc>http://i09158knct.github.io/robots.txt</loc>
